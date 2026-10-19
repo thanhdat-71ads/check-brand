@@ -1,0 +1,5 @@
+.env
+data/db.json
+data/db.json.tmp
+data/reports/
+node_modules/
